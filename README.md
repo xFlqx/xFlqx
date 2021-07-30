@@ -4,7 +4,7 @@
 
 Fluxx#0461
 
-## Developer
+## Developer studying Cyber Security
 
 Open Source work I've done will be posted here on [Github](https://github.com/xFlqx/), 
 
