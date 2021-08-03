@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Ace-Spades/Client-Work/discussions">
-    <img src="https://i.imgur.com/2Jjar7b.png" alt="Logo" width="1200" height="800">
+    <img src="https://i.imgur.com/2Jjar7b.png" alt="Logo" width="600" height="600">
   </a>
 
   <h3 align="center">Ace of Spades</h3>
