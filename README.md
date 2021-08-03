@@ -6,7 +6,7 @@
   <a href="minator.vercel.app" rel="readme-img">![Foo](https://raw.githubusercontent.com/xFlqx/Minator-Client/main/images/common/readme-img1.PNG token=ALBY2Z6OVFPTYLFZEIS5ZJ3BCKBMI)</a>
 </div>
 </body>
-
+<br>
 This is the Github repo containing all source code for[ Minator Network Website.](https://github.com/xFlqx/Minator-Client/ " Minator Esports Website.")
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
