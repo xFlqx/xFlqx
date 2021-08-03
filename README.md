@@ -17,8 +17,8 @@
 <!-- ABOUT -->
 # What do we do?
 
-## We do websites, dashboards, databases, servers and much more! We're currently looking out for clients who are interested in
-a fully custom website (front-end & back-end included).
+### We do websites, dashboards, databases, servers and much more! We're currently looking out for clients who are interested in
+### a fully custom website (front-end & back-end included).
 
 ## Why should you hire us?
 * Your time should be focused on establishing your company. We'll sort out the website and graphics as long as you provide content.
