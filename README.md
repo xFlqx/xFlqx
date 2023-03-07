@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Ace-Spades/Client-Work/discussions">
-    <img src="https://i.imgur.com/2Jjar7b.png" alt="Logo" width="256" height="256">
+    <img src="https://avatars.githubusercontent.com/u/88388153?s=200&v=4" alt="Logo" width="256" height="256">
   </a>
 
   <h3 align="center">Ace of Spades</h3>
@@ -17,17 +17,17 @@
 <!-- ABOUT -->
 # What do we do?
 
-### We do websites, dashboards, databases, servers and much more! We're currently looking out for clients who are interested in a fully custom website (front-end & back-end included).
+Websites, discord bots, dashboards, databases & hosting.
 
 ## Why should you hire us?
-* Your time should be focused on establishing your company. We'll sort out the website and graphics as long as you provide content.
-* We build websites for as cheap as £300-500 and our maintenance fee is only £15/h (after website deployment)
+* Your time should be focused on establishing your company. We'll sort out the development and graphics as long as you provide content.
+* We offer our services to match your most affordable price.
 * With 5+ years of coding experience and still going, you can expect us to build you something amazing.
 
 ## An example of our recent work
 
 <a href="minator.vercel.app" target="_blank">
-    <img src="https://i.imgur.com/Can5rxL.png" alt="Logo" width="1200" height="800">
+    <img src="https://i.imgur.com/Can5rxL.png" alt="Logo" width="800" height="600">
 </a>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
