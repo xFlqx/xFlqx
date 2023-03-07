@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Ace/Client-Work/discussions">
+  <a href="https://github.com/Ace-Freelance/Client-Work/discussions">
     <img src="https://avatars.githubusercontent.com/u/88388153?s=200&v=4" alt="Logo" width="256" height="256">
   </a>
 
@@ -47,13 +47,13 @@ Websites, discord bots, dashboards, databases & hosting.
   <summary> Table of Contents</summary>
   <ol>
     <li>
-       <a href="https://github.com/Ace/Client-Work">Main Directory</a>
+       <a href="https://github.com/Ace-Freelance/Client-Work">Main Directory</a>
     <ul>
      <li>
-        <a href="https://github.com/Ace/Client-Work/issues">Issues</a></li>
+        <a href="https://github.com/Ace-Freelance/Client-Work/issues">Issues</a></li>
     </ul>
      <li>
-        <a href="https://github.com/Ace/Client-Work/pulls">Pull Requests</a></li>
+        <a href="https://github.com/Ace-Freelance/Client-Work/pulls">Pull Requests</a></li>
     </ul>
     </li>
   </ol>
